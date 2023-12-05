@@ -18,10 +18,10 @@ export default function Home() {
         <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-              Java Execution Redefined
+              Java Program Execution Redefined
             </h1>
             <p className="mb-8 leading-relaxed">
-              No download, no installation. Just type the Maven <strong>group id</strong> and <strong>artifact id</strong>.
+              No program download! No JRE installation! Just type the <strong>Maven Id</strong>.
             </p>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
@@ -45,12 +45,10 @@ export default function Home() {
         <div className="container px-5 py-24 mx-auto">
           <div className="text-center mb-20">
             <h1 className="sm:text-3xl text-2xl font-medium title-font text-white mb-4">
-              Raw Denim Heirloom Man Braid
+              Hassle Free Execution
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-400 text-opacity-80">
-              Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-              taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh
-              mi pug.
+              Try some of the programs
             </p>
             <div className="flex mt-6 justify-center">
               <div className="w-16 h-1 rounded-full bg-yellow-500 inline-flex"></div>
